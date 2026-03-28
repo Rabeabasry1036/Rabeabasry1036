@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Rabeabasry1036/Rabeabasry1036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rabeabasry1036/Rabeabasry1036** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am an undergraduate student in Information and Communication Engineering (ICE)  
+- 🌱 My academic focus includes Artificial Intelligence and Machine Learning  
+- 🤝 I am interested in research collaboration, innovative technological development, AI and ML
+- 💡 I am seeking to deepen my understanding of advanced AI/ML methodologies  
+- 💬 I am open to discussions on AI, ML, and embedded systems  
+- 📫 Contact: (www.linkedin.com/in/rabea-basry36)  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I am motivated to apply engineering knowledge to address real-world challenges  
