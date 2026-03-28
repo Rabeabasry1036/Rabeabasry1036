@@ -3,9 +3,6 @@
 <!--
 **Rabeabasry1036/Rabeabasry1036** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
-
  I am an undergraduate student in Information and Communication Engineering (ICE)  
  My academic focus includes Artificial Intelligence and Machine Learning  
  I am interested in research collaboration, innovative technological development, AI and ML
